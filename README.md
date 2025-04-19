@@ -6,7 +6,7 @@
 
 📫 Please feel free to contact me by [email](mailto:alanluo233@gmail.com)
 
-💬 You can learn more about me in my [blog](www.kazovo.cn)
+💬 You can learn more about me in my [blog](https://www.kazovo.cn)
 
 ![Kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuoYu233)
 
