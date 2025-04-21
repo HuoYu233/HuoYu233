@@ -2,7 +2,7 @@
 
 😄 I am currently a postgraduate at Xiamen University majoring in Artificial Intelligence;
 
-🔭 My research interest include Biological Informatics and Natural Language Process(NLP);
+🔭 My research interest include Biological Informatics, Natural Language Process(NLP) and AI for Science;
 
 📫 Please feel free to contact me by [email](mailto:alanluo233@gmail.com)
 
