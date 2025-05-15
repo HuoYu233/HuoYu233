@@ -6,13 +6,13 @@
 
 📫 Please feel free to contact me by [email](mailto:alanluo233@gmail.com)
 
-💬 You can learn more about me in my [blog](https://www.kazovo.cn)
 
 ![Kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuoYu233)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuoYu233&size_weight=0.5&count_weight=0.5&langs_count=8)
 
 <!--
+💬 You can learn more about me in my [blog](https://www.kazovo.cn)
 **HuoYu233/HuoYu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
