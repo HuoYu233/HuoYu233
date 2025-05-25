@@ -4,8 +4,6 @@
 
 🔭 My research interest include Biological Informatics, Natural Language Process(NLP) and AI for Science;
 
-📫 Please feel free to contact me by [email](mailto:alanluo233@gmail.com)
-
 
 ![Kaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuoYu233)
 
@@ -13,6 +11,7 @@
 
 <!--
 💬 You can learn more about me in my [blog](https://www.kazovo.cn)
+📫 Please feel free to contact me by [email](mailto:alanluo233@gmail.com)
 **HuoYu233/HuoYu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
